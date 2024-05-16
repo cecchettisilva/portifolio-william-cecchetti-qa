@@ -47,3 +47,7 @@ body {
 #back-to-top-btn:hover {
     background-color: #555;
 }
+
+#link-eyes-applitools{
+    text-decoration: none;
+}
